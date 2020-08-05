@@ -31,8 +31,14 @@ A REST API for utilizing the data in the [`anime-offline-database`](https://gith
 
 ### [Crunchyroll Proxy](https://github.com/BeeeQueue/cr-proxy)
 
-...
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></code>
+
+A proxy for creating Crunchyroll sessions.
 
 ### [nvm but in rust](https://github.com/BeeeQueue/nvm-rust)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 A cross-platform nvm that doesn't suck. WIP
