@@ -12,7 +12,7 @@ I am a self taught front- and back-end developer with a focus on making pretty, 
 
 ## Main projects
 
-### [Yuna](https://github.com/BeeeQueue/yuna)
+### Yuna  ([Application](https://github.com/BeeeQueue/yuna), [Website](https://github.com/BeeeQueue/yuna-website))
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
