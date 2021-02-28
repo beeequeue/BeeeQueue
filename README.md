@@ -37,11 +37,21 @@ A REST API for utilizing the data in the [`anime-offline-database`](https://gith
 
 A proxy for creating Crunchyroll sessions.
 
-### [nvm but in rust](https://github.com/BeeeQueue/nvm-rust)
+### [Game Calendar](https://github.com/BeeeQueue/game-calendar)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></code>
 
-A cross-platform nvm that doesn't suck. WIP
+A game release calendar.
+
+### [`@beeequeue/eslint-plugin`](https://github.com/BeeeQueue/eslint-plugin)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
+
+My opinionated, modular ESLint configs.
 
 ### stratroulette.net ([Backend](https://github.com/sr-net/siege), [Frontend](https://github.com/sr-net/siege-ui))
 
