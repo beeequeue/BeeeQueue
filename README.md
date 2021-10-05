@@ -53,6 +53,10 @@ My opinionated, modular ESLint configs.
 
 A simple stratroulette web app.
 
-## Contributions
+## More-Than-Nothing Open Source Contributions
 
-Below are some repositories I've made significant contributions to 
+- [Kong/Insomnia](https://github.com/Kong/insomnia/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Improved cookie editor
+- [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Added source for Poster and Banner images
+- [mrsteele/dotenv-webpack](https://github.com/mrsteele/dotenv-webpack/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Fixed Webpack 5 support with backwards compatibility
+- [KATT/envsafe](https://github.com/KATT/envsafe/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Improved how empty strings are handled
+- [bundlewatch/bundlewatch](https://github.com/bundlewatch/bundlewatch/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Added filename normalizing to handle filenames with hashes in them
