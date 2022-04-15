@@ -11,7 +11,7 @@ I am a self taught front- and back-end developer with a focus on making pretty, 
 
 ## Main projects
 
-### Yuna  ([Application](https://github.com/BeeeQueue/yuna), [Website](https://github.com/BeeeQueue/yuna-website))
+### [Yuna](https://yuna.moe)  ([Application](https://github.com/BeeeQueue/yuna), [Website](https://github.com/BeeeQueue/yuna-website))
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -44,7 +44,7 @@ A service that automatically checks and notifies for Dota 2 Patches
 
 My opinionated, modular ESLint configs.
 
-### stratroulette.net ([Backend](https://github.com/sr-net/siege), [Frontend](https://github.com/sr-net/siege-ui))
+### [stratroulette.net](https://stratroulette.net) ([Backend](https://github.com/sr-net/siege), [Frontend](https://github.com/sr-net/siege-ui))
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
