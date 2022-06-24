@@ -9,7 +9,13 @@ I am a self taught front- and back-end developer with a focus on making pretty, 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-## Main projects
+### npm packages
+
+- [`dotaver`](https://github.com/BeeeQueue/dotaver) - 🟥 Semver but for Dota 2 patch versions
+- [`esbuild-cf-functions-plugin`](https://github.com/BeeeQueue/esbuild-cf-functions-plugin) - 🔧 A plugin to configure ESBuild for building code compatible with CloudFront Functions 
+- [`@beequeue/sizer`](https://github.com/BeeeQueue/sizer) - 🔢 A tiny CLI for checking file sizes with compression 
+
+## Big projects
 
 ### [Yuna](https://yuna.moe/)  ([Application](https://github.com/BeeeQueue/yuna), [Website](https://github.com/BeeeQueue/yuna-website))
 
