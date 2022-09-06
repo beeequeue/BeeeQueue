@@ -61,6 +61,7 @@ A simple stratroulette web app.
 
 ## More-Than-Nothing Open Source Contributions
 
+- [supabase/supabase-js & postgrest-js](https://github.com/supabase/supabase-js/pull/125) - Created initial implementation of better TypeScript DevX in the database SDK.
 - [Kong/Insomnia](https://github.com/Kong/insomnia/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Improved cookie editor
 - [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Added source for Poster and Banner images
 - [mrsteele/dotenv-webpack](https://github.com/mrsteele/dotenv-webpack/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Fixed Webpack 5 support with backwards compatibility
