@@ -4,11 +4,11 @@ I am a self taught web developer with a passion for making people's lives easier
 
 I mainly focus on DevEx and UI/UX.
 
-<code><img height="20" src="./images/typescript.svg"></code>
-<code><img height="20" src="./images/graphql.svg"></code>
-<code><img height="20" src="./images/nodejs.svg"></code>
-<code><img height="20" src="./images/react.svg"></code>
-<code><img height="20" src="./images/vue.svg"></code>
+<img height="20" src="./images/typescript.svg">
+<img height="20" src="./images/graphql.svg">
+<img height="20" src="./images/nodejs.svg">
+<img height="20" src="./images/react.svg">
+<img height="20" src="./images/vue.svg">
 
 ### npm packages
 
