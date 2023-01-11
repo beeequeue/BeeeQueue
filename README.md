@@ -1,13 +1,14 @@
 # Adam Haglund - @BeeeQueue - bq
 
-I am a self taught front- and back-end developer with a focus on making pretty, animated user interfaces.
+I am a self taught web developer with a passion for making people's lives easier.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+I mainly focus on DevEx and UI/UX.
+
+<code><img height="20" src="./images/typescript.svg"></code>
+<code><img height="20" src="./images/graphql.svg"></code>
+<code><img height="20" src="./images/nodejs.svg"></code>
+<code><img height="20" src="./images/react.svg"></code>
+<code><img height="20" src="./images/vue.svg"></code>
 
 ### npm packages
 
