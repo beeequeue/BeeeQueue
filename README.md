@@ -62,7 +62,7 @@ My opinionated, modular ESLint configs.
 
 A simple stratroulette web app.
 
-### [cue CLI tool](https://github.com/BeeeQueue/cue-cli)
+### [.cue CLI tool](https://github.com/BeeeQueue/cue-cli)
 
 <code><img height="20" src="./images/typescript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png"></code>
