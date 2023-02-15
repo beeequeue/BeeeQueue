@@ -18,13 +18,13 @@ I mainly focus on DevEx and UI/UX.
 - [`esbuild-cf-functions-plugin`](https://github.com/BeeeQueue/esbuild-cf-functions-plugin) - 🔧 A plugin to configure ESBuild for building code compatible with CloudFront Functions 
 - [`@beequeue/sizer`](https://github.com/BeeeQueue/sizer) - 🔢 A tiny CLI for checking file sizes with compression 
 
-## Big projects
+## Projects
 
 ### [Yuna](https://yuna.moe/)  ([Application](https://github.com/BeeeQueue/yuna), [Website](https://github.com/BeeeQueue/yuna-website))
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="./images/typescript.svg"></code>
+<code><img height="20" src="./images/vue.svg"></code>
+<code><img height="20" src="./images/graphql.svg"></code>
 
 An anime player with a focus on user experience and flowing animations.
 
@@ -32,35 +32,42 @@ An anime player with a focus on user experience and flowing animations.
 
 ### [Anime Relations Mapping Server (arm-server)](https://github.com/BeeeQueue/arm-server)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="./images/typescript.svg"></code>
+<code><img height="20" src="./images/nodejs.svg"></code>
 
 A REST API for utilizing the data in the [`anime-offline-database`](https://github.com/manami-project/anime-offline-database) project.
 
 ### [Is the Patch Out?](https://github.com/BeeeQueue/isthepatchout)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="./images/typescript.svg"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="./images/vue.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></code>
 
 A service that automatically checks and notifies for Dota 2 Patches
 
 ### [`@beeequeue/eslint-plugin`](https://github.com/BeeeQueue/eslint-plugin)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="./images/typescript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
 
 My opinionated, modular ESLint configs.
 
 ### [stratroulette.net](https://stratroulette.net/) ([Backend](https://github.com/sr-net/siege), [Frontend](https://github.com/sr-net/siege-ui))
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="./images/typescript.svg"></code>
+<code><img height="20" src="./images/nodejs.svg"></code>
+<code><img height="20" src="./images/graphql.svg"></code>
+<code><img height="20" src="./images/vue.svg"></code>
 
 A simple stratroulette web app.
+
+### [cue CLI tool](https://github.com/BeeeQueue/cue-cli)
+
+<code><img height="20" src="./images/typescript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png"></code>
+
+A CLI tool for splitting an audio file according to a `.cue` file
 
 ## More-Than-Nothing Open Source Contributions
 
