@@ -40,9 +40,9 @@ A REST API for utilizing the data in the [`anime-offline-database`](https://gith
 ### [Is the Patch Out?](https://github.com/BeeeQueue/isthepatchout)
 
 <code><img height="20" src="./images/typescript.svg"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"></code>
 <code><img height="20" src="./images/vue.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></code>
+<code><img height="20" src="./images/nuxt.svg"></code>
+<code><img height="20" src="./images/vercel.svg"></code>
 
 A service that automatically checks and notifies for Dota 2 Patches
 
