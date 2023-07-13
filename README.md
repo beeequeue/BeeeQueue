@@ -1,8 +1,8 @@
 # Adam Haglund - @BeeeQueue - bq
 
-I am a self taught web developer with a passion for making people's lives easier.
+I am a self taught developer with a passion for making people's lives easier.
 
-I mainly focus on DevEx and UI/UX.
+I am mainly interested in UI/UX and platform development.
 
 <div>
   <img height="20" src="./images/typescript.svg">
