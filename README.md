@@ -20,7 +20,7 @@ I am mainly interested in UI/UX and platform development.
 
 ## Projects
 
-### [Yuna](https://yuna.moe/)  ([Application](https://github.com/BeeeQueue/yuna), [Website](https://github.com/BeeeQueue/yuna-website))
+### [Yuna](https://yuna.moe/)  ([Application](https://github.com/BeeeQueue/yuna), [Website](https://github.com/BeeeQueue/yuna-website)) (archived)
 
 <code><img height="20" src="./images/typescript.svg"></code>
 <code><img height="20" src="./images/vue.svg"></code>
