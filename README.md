@@ -1,4 +1,4 @@
-# Adam Haglund - @BeeeQueue - bq
+# Adam Haglund - @beeequeue - beequeue - bq
 
 I am a self taught developer with a passion for making people's lives easier.
 
