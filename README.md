@@ -14,9 +14,10 @@ I am mainly interested in UI/UX and platform development.
 
 ### npm packages
 
-- [`dotaver`](https://github.com/BeeeQueue/dotaver) - 🟥 Semver but for Dota 2 patch versions
 - [`esbuild-cf-functions-plugin`](https://github.com/BeeeQueue/esbuild-cf-functions-plugin) - 🔧 A plugin to configure ESBuild for building code compatible with CloudFront Functions 
-- [`@beequeue/sizer`](https://github.com/BeeeQueue/sizer) - 🔢 A tiny CLI for checking file sizes with compression 
+- [`remsg`](https://github.com/BeeeQueue/remsg) - A encoder/decoder for the RE Engine MSG file format (for Monster Hunter Rise)
+- [`dotaver`](https://github.com/BeeeQueue/dotaver) - 🟥 Semver but for Dota 2 patch versions
+- [`@beequeue/sizer`](https://github.com/BeeeQueue/sizer) - 🔢 A tiny CLI for comparing file sizes with gzip & brotli compression
 
 ## Projects
 
@@ -27,8 +28,6 @@ I am mainly interested in UI/UX and platform development.
 <code><img height="20" src="./images/graphql.svg"></code>
 
 An anime player with a focus on user experience and flowing animations.
-
-<img height="250" src="https://yuna.moe/img/card.jpg">
 
 ### [Anime Relations Mapping Server (arm-server)](https://github.com/BeeeQueue/arm-server)
 
@@ -46,13 +45,6 @@ A REST API for utilizing the data in the [`anime-offline-database`](https://gith
 
 A service that automatically checks and notifies for Dota 2 Patches
 
-### [`@beeequeue/eslint-plugin`](https://github.com/BeeeQueue/eslint-plugin)
-
-<code><img height="20" src="./images/typescript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
-
-My opinionated, modular ESLint configs.
-
 ### [stratroulette.net](https://stratroulette.net/) ([Backend](https://github.com/sr-net/siege), [Frontend](https://github.com/sr-net/siege-ui))
 
 <code><img height="20" src="./images/typescript.svg"></code>
@@ -61,13 +53,6 @@ My opinionated, modular ESLint configs.
 <code><img height="20" src="./images/vue.svg"></code>
 
 A simple stratroulette web app.
-
-### [.cue CLI tool](https://github.com/BeeeQueue/cue-cli)
-
-<code><img height="20" src="./images/typescript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png"></code>
-
-A CLI tool for splitting an audio file according to a `.cue` file
 
 ## More-Than-Nothing Open Source Contributions
 
