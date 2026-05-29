@@ -13,21 +13,22 @@ I am mainly interested in UI/UX and platform development.
 </div>
 
 ### npm packages
-
-- [`esbuild-cf-functions-plugin`](https://github.com/BeeeQueue/esbuild-cf-functions-plugin) - 🔧 A plugin to configure ESBuild for building code compatible with CloudFront Functions 
-- [`remsg`](https://github.com/BeeeQueue/remsg) - A encoder/decoder for the RE Engine MSG file format (for Monster Hunter Rise)
-- [`dotaver`](https://github.com/BeeeQueue/dotaver) - 🟥 Semver but for Dota 2 patch versions
-- [`@beequeue/sizer`](https://github.com/BeeeQueue/sizer) - 🔢 A tiny CLI for comparing file sizes with gzip & brotli compression
+  
+- [![esbuild-cf-functions-plugin](https://npmx.dev/api/registry/badge/version/esbuild-cf-functions-plugin?name=true)](https://npmx.dev/package/esbuild-cf-functions-plugin) - [repo](https://github.com/BeeeQueue/esbuild-cf-functions-plugin) 🔧 A plugin to configure `esbuild` for building code compatible with CloudFront Functions
+- [![binary-util](https://npmx.dev/api/registry/badge/version/binary-util?name=true)](https://npmx.dev/package/binary-util) - [repo](https://github.com/BeeeQueue/binary-util) - A tiny utility library for parsing and serializing binary data
+- [![remsg](https://npmx.dev/api/registry/badge/version/remsg?name=true)](https://npmx.dev/package/remsg) - [repo](https://github.com/BeeeQueue/remsg) - A encoder/decoder for the RE Engine MSG file format (for Monster Hunter Rise)
+- [![dotaver](https://npmx.dev/api/registry/badge/version/dotaver?name=true)](https://npmx.dev/package/dotaver) - [repo](https://github.com/BeeeQueue/dotaver) - 🟥 Semver but for Dota 2 patch versions
 
 ## Projects
 
-### [Yuna](https://yuna.moe/)  ([Application](https://github.com/BeeeQueue/yuna), [Website](https://github.com/BeeeQueue/yuna-website)) (archived)
+### [Changesets](https://github.com/changesets/changesets) 🦋
 
-<code><img height="20" src="./images/typescript.svg"></code>
-<code><img height="20" src="./images/vue.svg"></code>
-<code><img height="20" src="./images/graphql.svg"></code>
+[![Open on npmx.dev](https://npmx.dev/api/registry/badge/version/@changesets/cli?name=true)](https://npmx.dev/package/@changesets/cli)
+[![Open on npmx.dev](https://npmx.dev/api/registry/badge/downloads-month/@changesets/cli)](https://npmx.dev/package/@changesets/cli)
 
-An anime player with a focus on user experience and flowing animations.
+Part of the team maintaining the popular versioning and changelog generation tool.
+
+Helped with the cleanup effort and 
 
 ### [Anime Relations Mapping Server (arm-server)](https://github.com/BeeeQueue/arm-server)
 
@@ -44,6 +45,14 @@ A REST API for utilizing the data in the [`anime-offline-database`](https://gith
 <code><img height="20" src="./images/vercel.svg"></code>
 
 A service that automatically checks and notifies for Dota 2 Patches
+
+### [Yuna](https://yuna.moe/)  ([Application](https://github.com/BeeeQueue/yuna), [Website](https://github.com/BeeeQueue/yuna-website)) (archived)
+
+<code><img height="20" src="./images/typescript.svg"></code>
+<code><img height="20" src="./images/vue.svg"></code>
+<code><img height="20" src="./images/graphql.svg"></code>
+
+An anime player with a focus on user experience and flowing animations.
 
 ### [stratroulette.net](https://stratroulette.net/) ([Backend](https://github.com/sr-net/siege), [Frontend](https://github.com/sr-net/siege-ui))
 
