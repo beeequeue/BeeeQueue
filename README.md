@@ -28,8 +28,6 @@ I am mainly interested in UI/UX and platform development.
 
 Part of the team maintaining the popular versioning and changelog generation tool.
 
-Helped with the cleanup effort and 
-
 ### [Anime Relations Mapping Server (arm-server)](https://github.com/BeeeQueue/arm-server)
 
 <code><img height="20" src="./images/typescript.svg"></code>
