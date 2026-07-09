@@ -68,5 +68,4 @@ A simple stratroulette web app.
 - [honojs/node-server](https://github.com/honojs/node-server/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Made the raw node request and response classes available to the handlers
 - [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Added AniList as a source for Poster and Banner images
 - [mrsteele/dotenv-webpack](https://github.com/mrsteele/dotenv-webpack/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Refactored all tests, Fixed Webpack 5 support with backwards compatibility
-- [KATT/envsafe](https://github.com/KATT/envsafe/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Improved how empty strings are handled
 - [bundlewatch/bundlewatch](https://github.com/bundlewatch/bundlewatch/pulls?q=sort%3Aupdated-desc+author%3ABeeeQueue) - Added filename normalizing to handle filenames with hashes in them
