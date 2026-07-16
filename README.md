@@ -14,7 +14,7 @@ I am mainly interested in UI/UX and platform development.
 
 ### npm packages
 
-- [![alleviate](https://npmx.dev/api/registry/badge/version/alleviate?name=true)](https://npmx.dev/package/alleviate) - [repo](https://github.com/BeeeQueue/alleviate) - 
+- [![alleviate](https://npmx.dev/api/registry/badge/version/alleviate?name=true)](https://npmx.dev/package/alleviate) - [repo](https://github.com/BeeeQueue/alleviate) - A collection of tiny caching and promise utilities 
 - [![esbuild-cf-functions-plugin](https://npmx.dev/api/registry/badge/version/esbuild-cf-functions-plugin?name=true)](https://npmx.dev/package/esbuild-cf-functions-plugin) - [repo](https://github.com/BeeeQueue/esbuild-cf-functions-plugin) 🔧 A plugin to configure `esbuild` for building code compatible with CloudFront Functions
 - [![binary-util](https://npmx.dev/api/registry/badge/version/binary-util?name=true)](https://npmx.dev/package/binary-util) - [repo](https://github.com/BeeeQueue/binary-util) - A tiny utility library for parsing and serializing binary data
 - [![remsg](https://npmx.dev/api/registry/badge/version/remsg?name=true)](https://npmx.dev/package/remsg) - [repo](https://github.com/BeeeQueue/remsg) - A encoder/decoder for the RE Engine MSG file format (for Monster Hunter Rise)
