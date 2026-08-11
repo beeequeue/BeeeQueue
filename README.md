@@ -23,34 +23,17 @@ Part of the team maintaining the popular versioning and changelog generation too
 
 ### [Anime Relations Mapping Server (arm-server)](https://github.com/BeeeQueue/arm-server)
 
-<code><img height="20" src="./images/typescript.svg"></code>
-<code><img height="20" src="./images/nodejs.svg"></code>
-
 A REST API for utilizing the data in the [`anime-offline-database`](https://github.com/manami-project/anime-offline-database) project.
 
 ### [Is the Patch Out?](https://github.com/BeeeQueue/isthepatchout)
-
-<code><img height="20" src="./images/typescript.svg"></code>
-<code><img height="20" src="./images/vue.svg"></code>
-<code><img height="20" src="./images/nuxt.svg"></code>
-<code><img height="20" src="./images/vercel.svg"></code>
 
 A service that automatically checks and notifies for Dota 2 Patches
 
 ### [Yuna](https://yuna.moe/)  ([Application](https://github.com/BeeeQueue/yuna), [Website](https://github.com/BeeeQueue/yuna-website)) (archived)
 
-<code><img height="20" src="./images/typescript.svg"></code>
-<code><img height="20" src="./images/vue.svg"></code>
-<code><img height="20" src="./images/graphql.svg"></code>
-
 An anime player with a focus on user experience and flowing animations.
 
 ### [stratroulette.net](https://stratroulette.net/) ([Backend](https://github.com/sr-net/siege), [Frontend](https://github.com/sr-net/siege-ui))
-
-<code><img height="20" src="./images/typescript.svg"></code>
-<code><img height="20" src="./images/nodejs.svg"></code>
-<code><img height="20" src="./images/graphql.svg"></code>
-<code><img height="20" src="./images/vue.svg"></code>
 
 A simple stratroulette web app.
 
