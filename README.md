@@ -4,14 +4,6 @@ I am a self taught developer with a passion for making people's lives easier.
 
 I am mainly interested in UI/UX and platform development.
 
-<div>
-  <img height="20" src="./images/typescript.svg">
-  <img height="20" src="./images/graphql.svg">
-  <img height="20" src="./images/nodejs.svg">
-  <img height="20" src="./images/vue.svg">
-  <img height="20" src="./images/react.svg">
-</div>
-
 ### npm packages
 
 - [![alleviate](https://npmx.dev/api/registry/badge/version/alleviate?name=true)](https://npmx.dev/package/alleviate) - [repo](https://github.com/BeeeQueue/alleviate) - A collection of tiny caching and promise utilities 
